@@ -1,0 +1,17 @@
+F:\CsharpCode\AudioTEST\AudioTEST\bin\Debug\AudioTEST.exe.config
+F:\CsharpCode\AudioTEST\AudioTEST\bin\Debug\AudioTEST.exe
+F:\CsharpCode\AudioTEST\AudioTEST\bin\Debug\AudioTEST.pdb
+F:\CsharpCode\AudioTEST\AudioTEST\bin\Debug\NAudio.dll
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.csprojAssemblyReference.cache
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.Form1.resources
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.Properties.Resources.resources
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.csproj.GenerateResource.cache
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.csproj.CoreCompileInputs.cache
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.csproj.CopyComplete
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.exe
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.pdb
+F:\CsharpCode\AudioTEST\AudioTEST\bin\Debug\Interop.WMPLib.dll
+F:\CsharpCode\AudioTEST\AudioTEST\bin\Debug\AxInterop.WMPLib.dll
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\Interop.WMPLib.dll
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AxInterop.WMPLib.dll
+F:\CsharpCode\AudioTEST\AudioTEST\obj\Debug\AudioTEST.csproj.ResolveComReference.cache
